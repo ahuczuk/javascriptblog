@@ -17,5 +17,8 @@ module.exports = {
         "react"
     ],
     "rules": {
+    },
+    "globals": {
+        "Handlebars": false
     }
 }
